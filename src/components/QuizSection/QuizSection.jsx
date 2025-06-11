@@ -4,7 +4,7 @@ import React, { useEffect, useRef, useState } from "react";
 
 import logoDark from "../../assets/logo-dark.svg";
 import logo from "../../assets/logo.svg";
-import referral from "../../assets/referral.png";
+import referral from "../../assets/referral.webp";
 import telegram from "../../assets/telegram.svg";
 import FinalThankYouPage from "../../components/FinalThankYouPage/FinalThankYouPage";
 import MLMEarningsSimulator from "../../components/MLMEarningsSimulator/MLMEarningsSimulator";
@@ -155,7 +155,7 @@ const QuizSection = () => {
       ) : (
         <>
           {!quizStarted && (
-            <section className="relative h-screen bg-cover bg-center bg-[url('./assets/eng.png')]">
+            <section className="relative h-screen bg-cover bg-center bg-[url('./assets/eng.webp')]">
               {/* <div className="absolute inset-0 backdrop-blur-xs"></div> */}
               <div className="relative flex flex-col items-center justify-center h-full text-[#34495E] px-6">
                 <div className="w-[60%]">
