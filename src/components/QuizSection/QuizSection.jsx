@@ -155,7 +155,7 @@ const QuizSection = () => {
       ) : (
         <>
           {!quizStarted && (
-            <section className="relative h-screen bg-cover bg-center bg-[url('./assets/eng1.webp')]">
+            <section className="relative h-screen bg-cover bg-center bg-[url('./assets/eng2.webp')]">
               {/* <div className="absolute inset-0 backdrop-blur-xs"></div> */}
               <div className="relative flex flex-col items-center justify-center h-full text-[#34495E] px-6">
                 <div className="w-[80%]">
