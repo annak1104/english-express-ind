@@ -24,7 +24,7 @@ const FinalThankYouPage = () => {
           className="w-12 h-12 mb-4"
         />
         <p className="font-open-sans text-lg text-gray-700 max-w-lg">
-          Gabung ke EnglishExpress di Telegram dan dapatkan link undangan unikmu
+          Gabung ke EnglishEkpres di Telegram dan dapatkan link undangan unikmu
           untuk mulai mengajak teman dan meraih reward!
         </p>
       </div>

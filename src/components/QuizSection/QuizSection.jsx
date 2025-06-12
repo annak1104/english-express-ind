@@ -200,7 +200,7 @@ const QuizSection = () => {
                   Mulai belajar & menghasilkan sekarang juga!
                 </h2>
                 <p className="font-lato text-[#34495E] text-lg mb-6">
-                  Gabung ke EnglishExpress di Telegram dan dapatkan link
+                  Gabung ke English Ekpres di Telegram dan dapatkan link
                   undangan unikmu untuk mulai mengajak teman dan meraih reward!
                 </p>
                 {/* Referral Tree Illustration */}
