@@ -165,7 +165,7 @@ const QuizSection = () => {
                   initial={{ opacity: 0, y: -20 }}
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ duration: 0.5 }}
-                  className="font-montserrat font-bold text-4xl md:text-5xl mb-6 text-center text-[#2C3E50]"
+                  className="font-montserrat font-bold text-2xl md:text-5xl mb-6 text-center text-[#2C3E50]"
                 >
                   Kemampuan bahasa Inggrismu bisa membuka peluang karier — dan
                   kamu bisa menghasilkan sambil belajar!
