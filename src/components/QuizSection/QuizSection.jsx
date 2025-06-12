@@ -155,11 +155,11 @@ const QuizSection = () => {
       ) : (
         <>
           {!quizStarted && (
-            <section className="relative h-screen bg-cover bg-center bg-[url('./assets/eng.webp')]">
+            <section className="relative h-screen bg-cover bg-center bg-[url('./assets/eng1.webp')]">
               {/* <div className="absolute inset-0 backdrop-blur-xs"></div> */}
               <div className="relative flex flex-col items-center justify-center h-full text-[#34495E] px-6">
-                <div className="w-[60%]">
-                  <img src={logo} alt="Main-logo" />
+                <div className="w-[80%]">
+                  <img src={logoDark} alt="Main-logo" />
                 </div>
                 <motion.h1
                   initial={{ opacity: 0, y: -20 }}
