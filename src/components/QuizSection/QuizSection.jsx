@@ -231,9 +231,15 @@ const QuizSection = () => {
                   Dapatkan pembaruan pelajaran real-time, pembelajaran berbasis
                   AI, dan mulai hasilkan uang melalui sistem referral!
                 </p>
-                <button className="bg-[#1ABC9C] text-white font-montserrat font-bold text-lg py-4 px-8 rounded-full transition-all duration-300 ease-in-out transform hover:bg-[#16A085] active:scale-95">
-                  Get Telegram
-                </button>
+                <a
+                  href="https://www.bargain2025.site/LXPPRt"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <button className="bg-[#1ABC9C] text-white font-montserrat font-bold text-lg py-4 px-8 rounded-full transition-all duration-300 ease-in-out transform hover:bg-[#16A085] active:scale-95">
+                    Get Telegram
+                  </button>
+                </a>
               </div>
             </section>
           )}
